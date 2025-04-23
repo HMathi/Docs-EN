@@ -1,8 +1,8 @@
 # 📚 HMathi/Docs-EN — IT Notes & Resources
 <p align="center">
-  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Language: French" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
   <img src="https://img.shields.io/github/stars/HMathi/Docs?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/language-english-blue.svg" alt="Language: English" />
   <img src="https://img.shields.io/github/repo-size/HMathi/Docs" alt="Repo Size" />
 </p>
 
