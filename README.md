@@ -1,9 +1,9 @@
 # 📚 HMathi/Docs-EN — IT Notes & Resources
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
-  <img src="https://img.shields.io/github/stars/HMathi/Docs?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/HMathi/Docs-EN?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/language-english-blue.svg" alt="Language: English" />
-  <img src="https://img.shields.io/github/repo-size/HMathi/Docs" alt="Repo Size" />
+  <img src="https://img.shields.io/github/repo-size/HMathi/Docs-EN" alt="Repo Size" />
 </p>
 
 Welcome to my GitHub repo dedicated to my 📖 **personal IT documentation**!  
